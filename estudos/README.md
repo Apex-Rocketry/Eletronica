@@ -2,10 +2,6 @@
 
 Área destinada a testes iniciais, aprendizagem, exercícios da capacitação e validação isolada de periféricos antes da integração nos sistemas principais.
 
-## Repositorio com algumas listas de exercícios
-
-https://github.com/MatheusBastiani/estudos-C
-
 ## O que armazenar aqui
 - Exercícios e desafios práticos dos membros da equipe;
 
